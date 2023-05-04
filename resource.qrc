@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/rec">
-        <file>img/Pale-headed brushfinsh.jpg</file>
-        <file>img/Ararpie manakin.jpg</file>
-        <file>img/Eastern bristlebird.jpg</file>
-        <file>img/Thick-billed parrot.jpg</file>
-        <file>img/AudioButton.png</file>
-    </qresource>
-</RCC>
